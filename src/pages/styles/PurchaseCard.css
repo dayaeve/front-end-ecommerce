@@ -1,0 +1,40 @@
+ .purchase__div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 6em;
+    margin-top: 3em;
+}
+
+.purchase__img {
+    width: 400px;
+    height: 300px;
+    object-fit:contain;
+}
+
+.purchase__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1EM;
+}
+.quantity {
+    border: 1px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+    gap: 1em;
+    margin-left: 7em;
+}
+.purchase__quantity {
+    margin-left: 6em;
+}
+.price {
+    display: flex;
+    gap: 9.2em;
+}
+.span__price {
+    margin-left: 6em;
+}
+
+

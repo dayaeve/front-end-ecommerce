@@ -1,0 +1,38 @@
+.home__di{
+    display: flex;
+    flex-direction: row;
+}
+.product__container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em 2em;
+    flex-wrap: wrap;
+    padding-top: 5em;  
+}
+.home__input{
+    border: 1px solid rgba(128, 128, 128, 0.548);
+    font-size: 0.9rem;
+    padding: 5px 18px;
+    outline: none;
+    width: 25em;
+    display: block;
+    margin: auto;
+    margin-top: 3em;
+}
+.home__search {
+    display: flex;
+    flex-direction: column;
+}
+.home__div {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1em;
+}
+.home__price {
+    margin-top: 7em;
+}
+
+
+

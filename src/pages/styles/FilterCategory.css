@@ -1,0 +1,15 @@
+.filter__section {
+    padding-top: 2em;
+    width: 100%;
+    max-width: 300px;
+}
+.filter__ul{
+    cursor: pointer;
+}
+.filter__hr {
+    margin-right: 20%;
+}
+.filter__category {
+    padding-top: 1em;
+    
+}

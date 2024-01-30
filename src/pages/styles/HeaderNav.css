@@ -1,0 +1,29 @@
+.header__h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    display: block;
+    padding: 5px ;
+    padding-right: 16em; 
+}
+.header__link{
+    color:#f85555;
+    text-decoration: none;
+}
+
+.header__link1 {
+    color: gray;
+}
+.header__ul {
+    display: flex;
+    justify-content: end;
+}
+
+.header__li {
+    color: gray;
+    font-size: 1.4rem;
+    line-height: 0;
+    padding: 14px;
+    text-align: center;
+    width: 15%;
+
+}
